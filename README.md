@@ -24,4 +24,4 @@ __Este texto esta en negrita__
   </head>
 </html>
 ```
-[wikipedia] (https://es.wikipedia.org/wiki/Wikipedia:Portada "Clica para ir a la wikipedia")
+[wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "Clica para ir a la wikipedia")
