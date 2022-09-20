@@ -8,3 +8,13 @@ _Este texto esta en cursiva_
 **Este texto esta en negrita**
 __Este texto esta en negrita__
 
+1. Titulo1
+2. Titulo2
+
+* Titulo 1
+* Titulo 2
+
+- Otra lista desordenada
+
++ Otra lista desordenada
+
