@@ -18,3 +18,10 @@ __Este texto esta en negrita__
 
 + Otra lista desordenada
 
+```html
+<html>
+  <head>
+  </head>
+</html>
+```
+[wikipedia] (https://es.wikipedia.org/wiki/Wikipedia:Portada "Clica para ir a la wikipedia")
