@@ -27,3 +27,9 @@ __Este texto esta en negrita__
 [wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "Clica para ir a la wikipedia")
 
 ![cyberpunk](https://github.com/cescoxd/RepasoGithub/blob/main/cyberpunk-edgerunners.jpg "David Martinez")
+
+| Encabezado1 | Encabezado2 | Encabezado3|
+| ----------- | :---------: | ---------: |
+| Item1 | Boligrafos | 20€ |
+| Item2 | Grapadoras | 1000€ |
+| Item3 | Lapices | 150€ |
